@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\THB\\source\\repos\\ChessGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AD3FD-3C55-43F4-B5C8-C7E967DA8137}|ChessGame.csproj|c:\\users\\thb\\source\\repos\\chessgame\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9F1AD3FD-3C55-43F4-B5C8-C7E967DA8137}|ChessGame.csproj|solutionrelative:readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AD3FD-3C55-43F4-B5C8-C7E967DA8137}|ChessGame.csproj|c:\\users\\thb\\source\\repos\\chessgame\\chessgame.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9F1AD3FD-3C55-43F4-B5C8-C7E967DA8137}|ChessGame.csproj|solutionrelative:chessgame.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AD3FD-3C55-43F4-B5C8-C7E967DA8137}|ChessGame.csproj|c:\\users\\thb\\source\\repos\\chessgame\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1AD3FD-3C55-43F4-B5C8-C7E967DA8137}|ChessGame.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AD3FD-3C55-43F4-B5C8-C7E967DA8137}|ChessGame.csproj|c:\\users\\thb\\source\\repos\\chessgame\\pieces\\pawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1AD3FD-3C55-43F4-B5C8-C7E967DA8137}|ChessGame.csproj|solutionrelative:pieces\\pawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AD3FD-3C55-43F4-B5C8-C7E967DA8137}|ChessGame.csproj|c:\\users\\thb\\source\\repos\\chessgame\\pieces\\chesspiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1AD3FD-3C55-43F4-B5C8-C7E967DA8137}|ChessGame.csproj|solutionrelative:pieces\\chesspiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AD3FD-3C55-43F4-B5C8-C7E967DA8137}|ChessGame.csproj|c:\\users\\thb\\source\\repos\\chessgame\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1AD3FD-3C55-43F4-B5C8-C7E967DA8137}|ChessGame.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AD3FD-3C55-43F4-B5C8-C7E967DA8137}|ChessGame.csproj|c:\\users\\thb\\source\\repos\\chessgame\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F1AD3FD-3C55-43F4-B5C8-C7E967DA8137}|ChessGame.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AD3FD-3C55-43F4-B5C8-C7E967DA8137}|ChessGame.csproj|c:\\users\\thb\\source\\repos\\chessgame\\pieces\\king.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1AD3FD-3C55-43F4-B5C8-C7E967DA8137}|ChessGame.csproj|solutionrelative:pieces\\king.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AD3FD-3C55-43F4-B5C8-C7E967DA8137}|ChessGame.csproj|c:\\users\\thb\\source\\repos\\chessgame\\pieces\\queen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1AD3FD-3C55-43F4-B5C8-C7E967DA8137}|ChessGame.csproj|solutionrelative:pieces\\queen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AD3FD-3C55-43F4-B5C8-C7E967DA8137}|ChessGame.csproj|c:\\users\\thb\\source\\repos\\chessgame\\pieces\\bishop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1AD3FD-3C55-43F4-B5C8-C7E967DA8137}|ChessGame.csproj|solutionrelative:pieces\\bishop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AD3FD-3C55-43F4-B5C8-C7E967DA8137}|ChessGame.csproj|c:\\users\\thb\\source\\repos\\chessgame\\pieces\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1AD3FD-3C55-43F4-B5C8-C7E967DA8137}|ChessGame.csproj|solutionrelative:pieces\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AD3FD-3C55-43F4-B5C8-C7E967DA8137}|ChessGame.csproj|c:\\users\\thb\\source\\repos\\chessgame\\pieces\\rook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1AD3FD-3C55-43F4-B5C8-C7E967DA8137}|ChessGame.csproj|solutionrelative:pieces\\rook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\THB\\source\\repos\\ChessGame\\ReadMe.txt",
+              "RelativeDocumentMoniker": "ReadMe.txt",
+              "ToolTip": "C:\\Users\\THB\\source\\repos\\ChessGame\\ReadMe.txt",
+              "RelativeToolTip": "ReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-30T20:32:47.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Knight.cs",
+              "DocumentMoniker": "C:\\Users\\THB\\source\\repos\\ChessGame\\Pieces\\Knight.cs",
+              "RelativeDocumentMoniker": "Pieces\\Knight.cs",
+              "ToolTip": "C:\\Users\\THB\\source\\repos\\ChessGame\\Pieces\\Knight.cs",
+              "RelativeToolTip": "Pieces\\Knight.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:27:48.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChessGame",
+              "DocumentMoniker": "C:\\Users\\THB\\source\\repos\\ChessGame\\ChessGame.csproj",
+              "RelativeDocumentMoniker": "ChessGame.csproj",
+              "ToolTip": "C:\\Users\\THB\\source\\repos\\ChessGame\\ChessGame.csproj",
+              "RelativeToolTip": "ChessGame.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-30T19:21:22.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Rook.cs",
+              "DocumentMoniker": "C:\\Users\\THB\\source\\repos\\ChessGame\\Pieces\\Rook.cs",
+              "RelativeDocumentMoniker": "Pieces\\Rook.cs",
+              "ToolTip": "C:\\Users\\THB\\source\\repos\\ChessGame\\Pieces\\Rook.cs",
+              "RelativeToolTip": "Pieces\\Rook.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwBAAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:23:15.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "King.cs",
+              "DocumentMoniker": "C:\\Users\\THB\\source\\repos\\ChessGame\\Pieces\\King.cs",
+              "RelativeDocumentMoniker": "Pieces\\King.cs",
+              "ToolTip": "C:\\Users\\THB\\source\\repos\\ChessGame\\Pieces\\King.cs",
+              "RelativeToolTip": "Pieces\\King.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:21:39.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChessPiece.cs",
+              "DocumentMoniker": "C:\\Users\\THB\\source\\repos\\ChessGame\\Pieces\\ChessPiece.cs",
+              "RelativeDocumentMoniker": "Pieces\\ChessPiece.cs",
+              "ToolTip": "C:\\Users\\THB\\source\\repos\\ChessGame\\Pieces\\ChessPiece.cs",
+              "RelativeToolTip": "Pieces\\ChessPiece.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:15:31.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\THB\\source\\repos\\ChessGame\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\THB\\source\\repos\\ChessGame\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-30T19:10:25.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\THB\\source\\repos\\ChessGame\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\THB\\source\\repos\\ChessGame\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:07:55.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\THB\\source\\repos\\ChessGame\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\THB\\source\\repos\\ChessGame\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAvwCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:04:53.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Queen.cs",
+              "DocumentMoniker": "C:\\Users\\THB\\source\\repos\\ChessGame\\Pieces\\Queen.cs",
+              "RelativeDocumentMoniker": "Pieces\\Queen.cs",
+              "ToolTip": "C:\\Users\\THB\\source\\repos\\ChessGame\\Pieces\\Queen.cs",
+              "RelativeToolTip": "Pieces\\Queen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:29:24.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pawn.cs",
+              "DocumentMoniker": "C:\\Users\\THB\\source\\repos\\ChessGame\\Pieces\\Pawn.cs",
+              "RelativeDocumentMoniker": "Pieces\\Pawn.cs",
+              "ToolTip": "C:\\Users\\THB\\source\\repos\\ChessGame\\Pieces\\Pawn.cs",
+              "RelativeToolTip": "Pieces\\Pawn.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA7wCgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:40:17.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Bishop.cs",
+              "DocumentMoniker": "C:\\Users\\THB\\source\\repos\\ChessGame\\Pieces\\Bishop.cs",
+              "RelativeDocumentMoniker": "Pieces\\Bishop.cs",
+              "ToolTip": "C:\\Users\\THB\\source\\repos\\ChessGame\\Pieces\\Bishop.cs",
+              "RelativeToolTip": "Pieces\\Bishop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:28:31.383Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
